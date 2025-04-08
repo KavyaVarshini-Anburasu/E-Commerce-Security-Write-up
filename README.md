@@ -1,4 +1,4 @@
-**Building Security into Scent: DesignMyFragrance E-Commerce Security Write-up**
+# **Building Security into Scent: DesignMyFragrance E-Commerce Security Write-up**
 
 “Fragrance is the unseen, unforgettable accessory.” — Coco Chanel  
 But what if the most unforgettable part of a fragrance website is how securely it's built?
